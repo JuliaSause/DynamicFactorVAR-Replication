@@ -1,1 +1,10 @@
+# Do not publish third-party datasets
+data/*.csv
 
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+
+# Generated results
+results/
